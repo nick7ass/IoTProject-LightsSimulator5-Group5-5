@@ -135,7 +135,7 @@ public class MainActivity extends AppCompatActivity {
     }
     //End of connect method
 
-    //Method for subscribing to topic
+    //Method for subscribing to topic 
     private void subscribe(String topicToSubscribe) {
         final String topic = topicToSubscribe;
         int qos = 1;
