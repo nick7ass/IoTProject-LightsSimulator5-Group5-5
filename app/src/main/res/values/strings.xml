@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IoTProject-LightsSimulator</string>
+    <string name="txv_title_temp">Smart Lights</string>
+    <string name="picture_simulating_a_light">Picture simulating a light</string>
+</resources>
